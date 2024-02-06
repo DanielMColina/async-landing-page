@@ -12,8 +12,5 @@
   "dependencies": {
     "node-fetch": "^3.3.2"
   },
-  "type": "module",
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
-  }
+  "type": "module"
 }
